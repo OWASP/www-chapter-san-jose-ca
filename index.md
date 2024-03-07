@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP San Jose CA
 tags: example-tag
 region: North America
+country: USA
 meetup-group:
 
 ---
