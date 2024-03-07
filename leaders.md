@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Dewank Pant](mailto:dewank.pant@owasp.org)
+* [Manan Wason](mailto:manan.wason@owasp.org)
