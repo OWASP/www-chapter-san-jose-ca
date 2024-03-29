@@ -5,6 +5,7 @@ title: OWASP San Jose CA
 region: North America
 country: USA
 meetup-group:
+postal-code: 95112
 
 ---
 
@@ -14,6 +15,15 @@ Welcome to the San Jose OWASP Chapter! As part of the global OWASP community, we
 Whether you are looking to deepen your understanding of application security, share your expertise, or network with like-minded individuals, you’ve come to the right place. Our meetings are inclusive and open to anyone interested in the fascinating world of cybersecurity. From engaging talks and workshops to hands-on projects and social events, we offer a wide range of activities to suit all levels of experience and interest.
 
 Join us at our next event to become part of our vibrant community. Together, we can make a difference in the world of cybersecurity. Stay updated on our upcoming events and initiatives by checking out our calendar and joining our mailing list. Welcome to the San Jose OWASP Chapter – where innovation, education, and community come together for a more secure internet.
+
+# San Jose Chapter Board
+
+If you want to know more about the OWASP San Jose chapter then please mail below chapter leaders:
+
+* [Dewank Pant](mailto:dewank.pant@owasp.org)
+* [Manan Wason](mailto:manan.wason@owasp.org)
+
+
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
