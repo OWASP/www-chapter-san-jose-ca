@@ -1,3 +1,4 @@
 ### Leaders
 * [Dewank Pant](mailto:dewank.pant@owasp.org)
 * [Manan Wason](mailto:manan.wason@owasp.org)
+* [shruti lohani](mailto:shruti.lohani@owasp.org)
