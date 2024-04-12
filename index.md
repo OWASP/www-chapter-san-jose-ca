@@ -18,11 +18,11 @@ Join us at our next event to become part of our vibrant community. Together, we 
 
 # San Jose Chapter Board
 
-If you want to know more about the OWASP San Jose chapter then please mail below chapter leaders:
+If you want to know more about the OWASP San Jose chapter then please contact below chapter leaders:
 
-* [Dewank Pant](mailto:dewank.pant@owasp.org)
-* [Manan Wason](mailto:manan.wason@owasp.org)
-
+* [Dewank Pant](https://www.linkedin.com/in/dewankpant) 
+* [Manan Wason](https://www.linkedin.com/in/manan-wason)
+* [Shruti Lohani](https://www.linkedin.com/in/shrutilohani)
 
 
 ## Participation
