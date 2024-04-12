@@ -1,5 +1,4 @@
-### San Jose CA Information
-* Provide Group Information
+### Chapter Information
 
 ### Social Links
 * [Meetup](#)
